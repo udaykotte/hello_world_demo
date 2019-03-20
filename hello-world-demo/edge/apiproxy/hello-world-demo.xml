@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="hello-world-demo">
+    <Basepaths>/hello-world-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1553020102898</CreatedAt>
+    <CreatedBy>udayk@sidgs.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>hello-world-demo</DisplayName>
+    <LastModifiedAt>1553020102898</LastModifiedAt>
+    <LastModifiedBy>udayk@sidgs.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:ebf6536c72e9e6d72f437c74e41e7f20e15797eae6e0a5563cce44a228577dce5db817f5c16879676f68acddcdc77439626f7acb73cffefe6a2b0750b697dfe6</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

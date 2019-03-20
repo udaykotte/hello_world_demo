@@ -1,0 +1,12 @@
+{
+    "hworld@bkfs.com": [
+        {
+            "apiProducts": [
+                "demo-helloWorld-v1Product-test"
+            ],
+            "callbackUrl": "",
+            "name": "demo-helloWorld-v1-hariprasadar-eval-test",
+            "scopes": []
+        }
+    ]
+}

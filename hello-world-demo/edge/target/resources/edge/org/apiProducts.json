@@ -1,0 +1,25 @@
+[
+    {
+        "name": "demo-helloWorld-v1Product-test",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "demo-helloWorld-v1Product-test"
+            }
+        ],
+        "description": "demo-helloWorld-v1Product-test",
+        "displayName": "demo-helloWorld-v1Product-test",
+        "environments": [
+            "test"
+        ],
+        "proxies": [
+            "demo-helloWorld-v1"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]
