@@ -8,7 +8,7 @@
 
     <parent>
         <groupId>com.apigee.demo.api</groupId>
-        <artifactId>demo-helloWorld-parent</artifactId>
+        <artifactId>hello-world-demo</artifactId>
         <version>1.0.0-RC1</version>
         <relativePath>../pom.xml</relativePath>
     </parent>

@@ -3,27 +3,16 @@
     <Description/>
     <FaultRules/>
     <PreFlow name="PreFlow">
-        <Request>
-            <Step>
-                <Name>AM-togglePathSuffix</Name>
-            </Step>
-        </Request>
+        <Request/>
         <Response/>
     </PreFlow>
     <PostFlow name="PostFlow">
         <Request/>
-        <Response>
-            <!--Cache with single consistent type-->
-            <!--Execute cache after mediation and translation steps-->
-            <Step>
-                <Name>RC-cache</Name>
-            </Step>
-        </Response>
+        <Response/>
     </PostFlow>
     <Flows/>
     <HTTPTargetConnection>
-        <LoadBalancer>
-            <Server name="demo-helloWorld-v1-mockTarget"/>
-        </LoadBalancer>
+        <Properties/>
+        <URL>https://mocktarget.apigee.net</URL>
     </HTTPTargetConnection>
 </TargetEndpoint>

@@ -1,10 +1,10 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.apigee.demo.api</groupId>
-    <artifactId>demo-helloWorld-parent</artifactId>
+    <artifactId>hello-World-demo</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0-RC1</version>
-    <name>hello-world-demo-ref</name>
+    <name>hello-world-demo</name>
 
     <parent>
         <groupId>com.api.commons</groupId>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy toDir="D:\sample folder structure\hello-world-demo\edge/target/classes">
+    <fileset dir="D:\sample folder structure\hello-world-demo\edge/target">
+      <include name="apiproxy/**"/>
+    </fileset>
+  </copy>
+</target>
+</project>
